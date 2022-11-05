@@ -1,3 +1,8 @@
+TR: 3D modelin bölgelerinin renkleri kullanıcı tarafından değiştirilebilir.
+
+EN: The colors of the regions of the 3D model can be changed by the user.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
