@@ -5,7 +5,6 @@ import {proxy, useSnapshot} from 'valtio';
 import BananaCat from './BananaCat';
 import Palette from './Palette';
 
-
 const stateProxy = proxy({
     current: null,
     items: { 
